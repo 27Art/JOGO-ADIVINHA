@@ -1,0 +1,43 @@
+body {
+    background-image: url('../img/numeroaoaoa.PNG');
+    margin: 0;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+
+button:hover {
+   text-decoration: underline;
+}
+
+section{
+    background-position: center;
+    background-size: cover;
+    border-radius: 50px;
+    height: 500px;
+    padding: 50px;
+    width: 300px;
+    text-align: center;
+    font-size: 30px;
+    
+}
+
+.container__input{
+    color: blue;
+    font-weight: bold;
+}
+
